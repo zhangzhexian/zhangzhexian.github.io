@@ -1,0 +1,16 @@
+.list-group-item:hover{
+	background:blue;
+}
+img{
+	display: black;
+	max-width:100%;
+}
+.tititle{
+	font-size: 30px;
+	text-decoration: none ;
+	
+}
+.info{
+	font-size: 20px;
+	color:#888888
+}
